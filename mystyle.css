@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    center width: 325px;
+    length: 250px;
+  }
+  
+  .red {
+    background-color: red;
+    width: 325px;
+    length: 250px;
+  }
+  
+  #nameBox {
+    display: flex;
+    justify-content: start-flex;
+  }
+  
+  #hello {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    font-size: 60px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    color: white;
+  }
+  
+  #my {
+    display: inline-block;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    bottom-bo
+  }
+  
+  #name {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    font-size: 3em;
+    margin: 10px 0px 10px 0px;
+    
+  }
+  
+  #giraffe {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
